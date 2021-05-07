@@ -1,11 +1,4 @@
 .Person {
-  width: 60%;
-  margin: 2rem auto;
-  padding: 2rem 0;
-  border: 2px solid dodgerblue;
+  
 }
 
-.Person:hover {
-  background-color: azure;
-  font-size: 2rem;
-}
